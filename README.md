@@ -1,4 +1,8 @@
-# socket.io-kafka-node-cluster
+<pre>
+ https://kafka.js.org/docs/running-kafka-in-development
+</pre>
+
+#socket.io-kafka-node-cluster
 
 A proof of concept for working of socket.io with nodejs cluster module.
 This application listen on kafka consumer message and send to browser as soon as it processed
